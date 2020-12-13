@@ -24,7 +24,7 @@ If you don't not wish to execute the code on your local machine, you can freely 
 Once logged in, click on `File` → `Open notebook`. In the form which will open up, select `GitHub` on the upper bar.
 Click `CANCEL` on the next form, then paste the URL of this repository into the search bar to load one of the notebooks into Colab.
 
-Executing a code cell (with `Ctrl+Enter` or `Shift+Enter`) there might open up a warning telling that the code has been imported from GitHub, ignoring by clicking on `Run anyway`.
+Executing a code cell (with `Ctrl+Enter` or `Shift+Enter`) might open up a warning telling that the code has been imported from GitHub, ignore it by clicking on `Run anyway`.
 
 Enjoy!
 
